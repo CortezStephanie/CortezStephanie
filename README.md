@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">A passionate full-stack developer from Texas</h3>
 
-- 👨‍💻 All of my projects are available at [https://stephanies-react-portfolio.herokuapp.com/](https://stephanies-react-portfolio.herokuapp.com/)
+- 👨‍💻 Review my portfolio at [https://stephanies-react-portfolio.herokuapp.com/](https://stephanies-react-portfolio.herokuapp.com/)
 
 - 💬 Ask me about **react**
 
