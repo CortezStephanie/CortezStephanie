@@ -3,7 +3,7 @@
 
 - 👨‍💻 Review my portfolio at [https://stephanies-react-portfolio.herokuapp.com/](https://stephanies-react-portfolio.herokuapp.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **coding**
 
 - 📫 How to reach me **scortez.dev@yahoo.com**
 
