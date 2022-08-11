@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **coding**
 
-- 📫 How to reach me **scortez.dev@yahoo.com**
+- 📫 How to reach me **scortez.dev@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IswTu4JXcnHCfSGmvdIR8fmYDSa-xLSNbdLWMulJU-w/edit?usp=sharing](https://docs.google.com/document/d/1IswTu4JXcnHCfSGmvdIR8fmYDSa-xLSNbdLWMulJU-w/edit?usp=sharing)
 
